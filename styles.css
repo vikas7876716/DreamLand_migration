@@ -135,7 +135,7 @@ h3 { font-size: 1.35rem; font-weight: 600; }
 }
 .hero-bg {
   position: absolute; inset: 0; z-index: -2;
-  background: url('hero-bg.png') center/cover no-repeat;
+  background: url('hero-bg.png.png') center/cover no-repeat;
   /* transform: scale(1.05); */
   /* animation: slowZoom 20s ease-in-out infinite alternate; */
 }
